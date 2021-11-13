@@ -12,7 +12,8 @@ body {
 header{
     padding: 15px;
     border-bottom: 1px solid #333;
-    background: rgba(130, 73, 32)
+    /* background: rgba(130, 73, 32) */
+    background: rgb(108, 0, 196)
 }
 .links {
     text-align: center;
@@ -38,47 +39,14 @@ header{
 #wrapper img{
     border-radius: 100px 50px;
     border: 5px solid var(--color-purple);
-    height: 300px;
+    height: 350px;
 }
 #wrapper h1{
     font-size: 42px;
     line-height: 52px;
     font-weight: lighter;
-    margin-top: 10px;
 
 }
-
-#wrapper2 h1{
-    font-size: 35px;
-    line-height: 52px;
-    font-weight: lighter;
-    margin-top: 15px;
-    opacity:   0.8;
-
-}
-
-#wrapper2 h2{
-    font-size: 24px;
-    line-height: 34px;
-    font-weight: normal;
-    margin-top: 8px;
-    opacity:   0.8;
-}
-
-#wrapper2 li{
-    font-size: 24px;
-    line-height: 34px;
-    font-weight: normal;
-    margin-top: 8px;
-}
-#wrapper2 p{
-    font-size: 20px;
-    line-height: 40px;
-    font-weight: lighter;
-    margin-top: 15px;
-
-}
-
 #wrapper h2{
     font-size: 24px;
     line-height: 34px;
